@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +10,25 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} */
+
+/* *{
+  background-color: rgb(160, 134, 199);
+} */
+
+body{
+  background-color: rgb(57, 46, 209);
+}
+.task-container{
+  width: 500px;
+  max-width: 500px;
+  height: auto;
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  /* box-shadow: var(--box-shadow); */
+  /* overflow: hidden; */
+  margin-top: 100px;
+  padding: 3rem 2rem;
+  margin-left: 500px;
 }
